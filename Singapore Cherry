@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Singapore Cherry (ముంజా చెట్టు) - The Tiny Red Wonder 🍒</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #FF6B6B, #FFC0CB);
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: white;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 15px;
+        }
+        h1 {
+            font-size: 36px;
+            text-shadow: 2px 2px 5px black;
+        }
+        p {
+            font-size: 20px;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        .images {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .images img {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🍒 The Beautiful Singapore Cherry (ముంజా చెట్టు) 🍒</h1>
+        <p>The Singapore Cherry, scientifically known as <i>Muntingia calabura</i>, is a small but fast-growing tropical tree known for its bright red fruits and delicate flowers. It is widely appreciated for its ornamental beauty, medicinal properties, and role in attracting birds and pollinators.</p>
+        
+        <p><b>Classification:</b> The Singapore Cherry belongs to the kingdom Plantae, the family Muntingiaceae, and the order Malvales. It can grow up to 7-12 meters tall and is known for its spreading branches and continuous fruit production.</p>
+        
+        <p><b>Interesting Facts:</b></p>
+        <ul>
+            <li>🍭 <b>Sweet and Edible:</b> The tiny red berries are sweet and often compared to cotton candy in flavor.</li>
+            <li>🦜 <b>Bird Magnet:</b> The tree is loved by birds, especially parrots and bulbuls, which feast on its fruit.</li>
+            <li>🌸 <b>Ever-Blooming:</b> It produces small, star-like white flowers throughout the year, making it a beautiful addition to gardens.</li>
+            <li>🌿 <b>Medicinal Uses:</b> Singapore Cherry leaves and bark have been traditionally used to treat inflammation, colds, and stomach ailments.</li>
+        </ul>
+        
+        <p><b>Connection with India:</b></p>
+        <p>Although native to Central and South America, the Singapore Cherry has found a home in India, where it thrives in tropical and subtropical climates. It is often planted along roadsides, gardens, and parks, offering both shade and fruit.</p>
+        
+        <p><b>Health Benefits:</b></p>
+        <ul>
+            <li>🩺 <b>Rich in Antioxidants:</b> Helps fight free radicals, promoting overall health.</li>
+            <li>💖 <b>Boosts Heart Health:</b> Contains flavonoids that may help lower blood pressure and cholesterol.</li>
+            <li>🛡️ <b>Strengthens Immunity:</b> High in vitamin C, it supports the immune system.</li>
+            <li>🌱 <b>Natural Pain Reliever:</b> The bark extract has analgesic properties that help reduce pain and inflammation.</li>
+        </ul>
+        
+        <p><b>Propagation Methods:</b> Singapore Cherry trees are mainly propagated through seeds. They grow best in warm, sunny conditions and require minimal care.</p>
+        
+        <div class="images">
+            <img src="sing1.png">
+            <img src="sing2.png">
+        </div>
+        
+        <p>The Singapore Cherry tree is a true delight, offering beauty, delicious fruits, and valuable health benefits. Whether for its ornamental charm or ecological value, it is a wonderful gift from nature! 🍒✨</p>
+    </div>
+</body>
+</html>
